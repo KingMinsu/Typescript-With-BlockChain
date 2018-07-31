@@ -1,0 +1,16 @@
+{
+  "name": "bloackchain",
+  "version": "1.0.0",
+  "description": "build Typescript with blockchain",
+  "main": "index.js",
+  "repository": "https://github.com/KingMinsu/Typescript-With-BlockChain",
+  "author": "KingMinsu",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.ts",
+    "prestart": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^3.0.1"
+  }
+}
